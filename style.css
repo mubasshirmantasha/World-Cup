@@ -29,3 +29,8 @@ section {
     font-weight: 300;
     border-radius: 2px;
 }
+
+.half-width img {
+    width: 70%;
+    padding-right: 5px;
+}
